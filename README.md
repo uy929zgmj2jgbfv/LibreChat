@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://librechat.ai">
-    <img src="docs/assets/LibreChat.svg" height="256">
-  </a>
-  <h1 align="center">
-    <a href="https://librechat.ai">LibreChat</a>
-  </h1>
+<p align="center">Please see wiki for install instructions
 </p>
 
 <p align="center">
